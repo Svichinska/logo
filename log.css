@@ -57,3 +57,67 @@ button {
 	cursor: pointer;
 
 }
+
+.page2 {
+	padding: 20px 330px;
+}
+
+.take p{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 250px;
+	color: blue;
+}
+
+.take2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.galery {
+	display: flex;
+	justify-content: center;
+	position: relative;
+}
+
+.web {
+	border: 2px solid blue;
+	height: 210px;
+	width: 300px;
+	margin-right: 20px;
+
+	}
+
+.graphik {
+	border: 2px solid #E5F3FE;
+	height: 220px;
+	width: 300px;
+	margin-right: 20px;
+	background-color: #E5F3FE;
+}
+
+.digital {
+	border: 2px solid #E5F3FE;
+	height: 220px;
+	width: 300px;
+	margin-right: 20px;
+	background-color: #E5F3FE;
+}
+
+.web, .graphik, .digital, h3 {
+    text-align: center;
+    padding-top: 18px;
+    vertical-align: 5px;
+}
+
+.img {
+	width: 70px;
+	height: 70px;
+	background-color: #D6EDFF;
+	border: 2px solid #D6EDFF;
+	border-radius: 40px;
+	margin: 0px 110px;
+
+}
