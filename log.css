@@ -234,3 +234,81 @@ button {
 .our {
 	margin: 10px 80px;
 }
+
+.page5 {
+	padding: 20px 330px;
+
+
+}
+
+.page5-1 p {
+	color: blue;
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+}
+
+.page5-1 h1 {
+	display: flex;
+	justify-content: center;
+}
+
+.galerka  {
+	padding: 20px 30px;
+}
+
+.gal {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+
+}
+
+.gal1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.class {
+	width: 400px;
+	height: 300px;
+	background-color: #E7E7E7;
+	margin: 10px;
+}
+
+.class1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	width: 400px;
+	height: 300px;
+	background-color: #E7E7E7;
+	margin: 10px;
+	font-size: 30px;
+	color: gray;
+}
+
+.class1 p {
+	margin-top: 200px;
+}
+
+.page5-2 {
+	display: flex;
+	padding: 20px 500px;
+}
+.kn {
+	display: flex;
+}
+
+.knopi , .knopi2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin: 10px;
+
+}
