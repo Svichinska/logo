@@ -77,6 +77,8 @@ button {
 	border-radius: 25px;
 	background-color: lightgrey;
 	text-align: center;
+	box-shadow: 0px 8px 24px rgba(0, 0, 0, 0.24);
+	color: #888;
 
 	
 }
@@ -85,8 +87,10 @@ button {
 	height: 45px;
 	width: 45px;
 	border-radius: 25px;
-	background-color: blue;
+	background: #2370C8;
+box-shadow: 0px 8px 24px rgba(35, 112, 200, 0.24);
 	text-align: center;
+	color:  white;
 	
 
 }
@@ -310,5 +314,101 @@ button {
 	align-items: center;
 	text-align: center;
 	margin: 10px;
+}
 
+.page6 {
+
+	background-color: #F2F9FF;
+	width: 1833px;
+	height: 650px;
+	margin-left: -330px;
+}
+
+.page6glav {
+	
+}
+
+.page6-1 {
+	text-align: center;
+	padding: 20px;
+	height: 100px;
+	display: block;
+	justify-content: center;
+	padding-top: 70px;
+}
+
+.page6-1 p {
+	color: blue;
+}
+
+.page6-2 {
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+}
+.page6block {
+	width: 316px;
+    height: 325px;
+    background-color: #E7E7E7;
+    margin: 10px 20px;
+}
+
+.page6mini {
+	height: 60px;
+	width: 280px;
+	background: #F2F9FF;
+    box-shadow: 0 4px 24px #E7E7E7;
+	opacity: .3;
+	text-align: center;
+	position: relative;
+	bottom: -280px;
+	right: -50px;
+}
+
+.page6mini h4 {
+	color: black;
+}
+
+.page7 {
+	
+	margin-top: 100px;
+
+	height: 700px;
+}
+
+.page7-1 {
+	
+	width: 700px;
+	justify-content: left;
+	align-items: center;
+}
+
+.page7-2 {
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: flex-end;
+	
+
+}
+
+.img {
+	margin: auto;
+}
+
+.mini7 {
+	width: 33%;
+	height: 400px;
+	box-shadow: 0 4px 24px #E7E7E7;
+	margin-right: 30px;
+}
+
+.mini7 h6 {
+	margin: 1px;
+}
+
+.mini7 h2 , h5 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
