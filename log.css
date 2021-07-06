@@ -383,6 +383,10 @@ box-shadow: 0px 8px 24px rgba(35, 112, 200, 0.24);
 	align-items: center;
 }
 
+.page7-1 p {
+	color: blue;
+}
+
 .page7-2 {
 	display: flex;
 	text-align: center;
@@ -401,6 +405,7 @@ box-shadow: 0px 8px 24px rgba(35, 112, 200, 0.24);
 	height: 400px;
 	box-shadow: 0 4px 24px #E7E7E7;
 	margin-right: 30px;
+	transition: all .3s ease;
 }
 
 .mini7 h6 {
@@ -411,4 +416,60 @@ box-shadow: 0px 8px 24px rgba(35, 112, 200, 0.24);
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+
+.mini7:hover {
+	background-color: #2370C8;
+	color: white;
+}
+
+.mini7:hover button{
+	background-color: white;
+	color: #2370C8;
+}
+
+.page8 {
+	height: 600px;
+	width: 1833px;
+	background-color: rgba(55, 130, 215, 0.9);
+	margin-left: -330px;
+
+}
+
+.page8-1 {
+	padding: 20px 330px;
+	display: flex;
+	justify-content: center;
+	color: white;
+}
+
+.page8-1 h1 {
+	margin-top: 80px;
+	margin-bottom: 0;
+}
+
+.page8-2 {
+	padding: 20px 330px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.mini8 {
+	height: 50%;
+	border: 1px solid #6AB0FF;
+	background-color: rgba(55, 130, 215, 0.5);
+	color: white;
+	margin: 10px;
+	padding: 35px;
+	text-align: center;
+}
+
+.mini8 p {
+	font-size: 11px;
+
+}
+
+.mini8 h6 {
+	line-height: 20px;
+
 }
